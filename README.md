@@ -1,6 +1,6 @@
-# Barbershop-Client
+# Do parra barbearia
 
-## My first Client as Front End Dev.
+## Created by [`Ryan RC`](https://github.com/Ryan-R-C/)
 
 It was made using HTML5, CSS3 and JS. The reason is I want to show what I can do using just the basic tools of Web Dev.
 
